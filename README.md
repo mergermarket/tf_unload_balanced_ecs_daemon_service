@@ -1,4 +1,4 @@
-AWS ECS Service terraform module
+AWS ECS Daemon Service terraform module
 ================================
 
 [![Build Status](https://travis-ci.org/mergermarket/tf_unload_balanced_ecs_daemon_service.svg?branch=master)](https://travis-ci.org/mergermarket/tf_unload_balanced_ecs_daemon_service)
